@@ -28,7 +28,7 @@
     "express-request-id": "^1.4.0",
     "googleapis": "^25.0.0",
     "helmet": "^3.9.0",
-    "http-proxy": "^1.16.2",
+    "http-proxy": "^1.18.1",
     "microsoft-service": "^1.1.8",
     "moment": "^2.19.1",
     "mongodb": "^2.2.33",
