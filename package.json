@@ -39,7 +39,7 @@
     "redis": "^2.8.0",
     "sanitation": "^1.0.8",
     "socket.io": "^2.0.4",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "uuid": "^3.1.0",
     "winston": "^2.4.0"
   }
